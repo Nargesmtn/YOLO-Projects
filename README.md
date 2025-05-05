@@ -1,1 +1,1 @@
-# YOLO-Projects
+# YOLO-Course-Projects
